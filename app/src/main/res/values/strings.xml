@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SocialN</string>
+    <string name="access_token">None</string>
+    <string name="TAG">SocialN_App</string>
+</resources>
